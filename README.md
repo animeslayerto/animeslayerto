@@ -1,4 +1,4 @@
-==# أنمي سلاير — Anime Slayer
+# أنمي سلاير — Anime Slayer
 
 أنمي سلاير (Anime Slayer) هو أشهر موقع عربي لمشاهدة وتحميل الأنمي المترجم. الموقع الرسمي: [animeslayer.to](https://animeslayer.to/)
 
