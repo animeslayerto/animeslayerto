@@ -1,26 +1,73 @@
-# 🌟 Anime Slayer | أنمي سلاير 
-### Official Digital Entity for [anime.to](https://anime.to)
+<!-- الكيان الرسمي لـ أنمي سلاير | Anime Slayer Official Entity | anime.to -->
 
-Welcome to the official GitHub profile of **Anime Slayer (أنمي سلاير)**, the premier Arabic platform for anime streaming, downloads, and the most comprehensive Japanese-Arabic anime glossary.
+# أنمي سلاير | Anime Slayer
 
----
+**أنمي سلاير** (Anime Slayer) — الموقع الرسمي: [anime.to](https://anime.to)
 
-## 🚀 Brand Identity & Entity Details
-- **Official Website:** [https://anime.to](https://anime.to)
-- **Brand Name:** Anime Slayer (أنمي سلاير)
-- **Primary Focus:** Arabic Anime Community (MENA Region)
-- **Content:** Anime Streaming, Isekai Glossary, and Manga Archives.
+> أنمي سلاير هو أشهر موقع عربي لمشاهدة وتحميل الأنمي المترجم، ويُعدّ المرجع الأول لعشاق الأنمي في العالم العربي.
 
 ---
 
-## 🔗 Verified Connections
-To confirm this is the authentic **Anime Slayer** entity, please refer to our established profiles:
-- 📊 **MyAnimeList:** [animeslayer](https://myanimelist.net/profile/animeslayerto)
-- 📌 **Pinterest:** [animeslayerto](https://www.pinterest.com/animeslayerto)
-- 📝 **Wikipedia Reference:** Linked via our Official Glossary.
+## ما هو أنمي سلاير؟
+
+**أنمي سلاير** (بالعربية: أنمي سلاير، ويُكتب أيضاً: انمي سلاير) هو منصة بث وتحميل عربية متخصصة في الأنمي الياباني المترجم إلى اللغة العربية. يقدّم الموقع الرسمي **anime.to** خدمات مشاهدة وتحميل مجانية لملايين المستخدمين في منطقة الشرق الأوسط وشمال أفريقيا.
+
+تأسّس **موقع أنمي سلاير** ليكون الوجهة الأولى والأشمل لمحتوى الأنمي باللغة العربية، ويضم مكتبة تحتوي على آلاف المسلسلات والأفلام والـ OVA والدراما الآسيوية.
 
 ---
+
+## مميزات موقع أنمي سلاير — anime.to
+
+- **مشاهدة أنمي مترجم عربي** — جميع المحتويات مترجمة إلى العربية بجودة عالية
+- **تحميل أنمي** — إمكانية التحميل المباشر للمشاهدة بدون إنترنت
+- **مكتبة أنمي شاملة** — مسلسلات، أفلام، OVA، دراما يابانية وكورية
+- **تتبع الأنمي** — إدارة قائمة المشاهدة وتتبع الحلقات
+- **تحديث يومي** — أحدث حلقات الأنمي الموسمي فور صدورها
+- **بحث متقدم** — تصفية حسب التصنيف والتقييم والسنة
+- **دعم Android و iOS** — تطبيق أنمي سلاير متاح على جميع الأجهزة
+
+---
+
+## أنمي سلاير عبر الإنترنت — الحسابات الرسمية
+
+| المنصة | الحساب الرسمي |
+|--------|--------------|
+| 🌐 أنمي سلاير الموقع الرسمي | [anime.to](https://anime.to) |
+| 📊 أنمي سلاير على MyAnimeList | [animeslayerto](https://myanimelist.net/profile/animeslayerto) |
+| 📌 أنمي سلاير على Pinterest | [animeslayerto](https://www.pinterest.com/animeslayerto) |
+
+---
+
+## الكيان الرقمي لـ أنمي سلاير
+
+| المعلومة | التفاصيل |
+|----------|---------|
+| اسم العلامة التجارية | أنمي سلاير / Anime Slayer |
+| أسماء بديلة | انمي سلاير، أنمي سلير، animeslayer، anime slayer |
+| الموقع الرسمي | [anime.to](https://anime.to) |
+| تخصص المنصة | مشاهدة وتحميل الأنمي المترجم بالعربية |
+| المنصات | Web · Android · iOS |
+| الجمهور | عشاق الأنمي الناطقون بالعربية |
+| المنطقة الجغرافية | العالم العربي — MENA |
+
+---
+
+## الكلمات المفتاحية
+
+```
+أنمي سلاير | انمي سلاير | أنمي سلاير موقع | أنمي سلاير تحميل
+أنمي سلاير مشاهدة | أنمي سلاير anime.to | موقع أنمي سلاير الرسمي
+تحميل انمي مترجم عربي | مشاهدة انمي مترجم | افضل موقع انمي عربي
+anime slayer | anime slayer arabic | anime slayer official
+anime slayer download | anime slayer streaming | anime.to
+```
+
+---
+
 <div align="center">
-  <p><b>Bridging the gap between Japanese Anime and the Arabic Audience since 2026.</b></p>
-  <a href="https://anime.to">Visit the Official Site →</a>
+
+**أنمي سلاير (Anime Slayer) — [anime.to](https://anime.to)**
+
+المنصة العربية الأولى لمشاهدة وتحميل الأنمي المترجم
+
 </div>
