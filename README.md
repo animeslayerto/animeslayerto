@@ -26,7 +26,7 @@
 | المنصة | الرابط |
 |--------|--------|
 | الموقع | [animeslayer.to](https://animeslayer.to/) |
-| MyAnimeList | [animeslayerto](https://myanimelist.net/profile/slayer-anime) |
+| MyAnimeList | [animeslayerto](https://myanimelist.net/profile/animeslayerto) |
 | Pinterest | [animeslayerto](https://www.pinterest.com/animeslayerto) |
 
 ---
