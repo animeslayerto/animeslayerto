@@ -28,6 +28,7 @@
 | الموقع | [animeslayer.to](https://animeslayer.to/) |
 | MyAnimeList | [animeslayerto](https://myanimelist.net/profile/animeslayerto) |
 | Pinterest | [animeslayerto](https://www.pinterest.com/animeslayerto) |
+| X.com | [animeslayerto](https://x.com/animeslayerto) |
 
 ---
 
